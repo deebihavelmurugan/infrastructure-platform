@@ -1,0 +1,8 @@
+{
+  "team_name": "alpha",
+  "environment": "prod",
+  "buckets": [
+    { "name": "internal-data", "public": false },
+    { "name": "public-assets", "public": true }
+  ]
+}
