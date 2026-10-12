@@ -1,0 +1,8 @@
+{
+  "team_name": "beta",
+  "environment": "dev",
+  "buckets": [
+    { "name": "application-logs", "public": false },
+    { "name": "cache-store", "public": false }
+  ]
+}
